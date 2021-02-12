@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning new technologies
+🌱 I’m currently learning new technologies <br/>
 🔭 I’m currently working on Ecommerce
 
 <!--
