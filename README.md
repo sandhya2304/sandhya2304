@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning new technologies
+🔭 I’m currently working on Ecommerce
 
 <!--
 **sandhya2304/sandhya2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
