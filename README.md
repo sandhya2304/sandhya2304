@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning new technologies <br/>
+🌱 I’m currently learning microservice architecture
+    I’m currently working on MERN website
 
 
 <!--
