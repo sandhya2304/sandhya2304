@@ -1,4 +1,4 @@
-![devops](https://user-images.githubusercontent.com/14922744/126371775-93b5cbee-feee-43f6-bd96-d1ba4c915c9b.png)
+
 
  I’m currently learning microservice architecture <br/>
  I’m currently working on MERN website
