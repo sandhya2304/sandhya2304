@@ -1,6 +1,6 @@
-### Hi there 👋
-🌱 I’m currently learning microservice architecture <br/>
-    I’m currently working on MERN website
+
+ I’m currently learning microservice architecture <br/>
+ I’m currently working on MERN website
 
 
 <!--
