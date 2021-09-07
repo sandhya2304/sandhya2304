@@ -1,6 +1,7 @@
 
 
- I’m currently learning microservice  <br/>
+ 🌱 I’m currently learning microservices  <br/>
+ 🔭 I’m currently working on Full Stack Development - Frontend, Backend and Cloud Services.
 
 
 <!--
