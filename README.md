@@ -2,6 +2,7 @@
 
  🌱 I’m working on microservices  <br/>
  🔭 I’m currently working on Full Stack Development - Frontend, Backend and Cloud Services. <br/>
+ 🌱  I'm developing myself on NodeJS and Python <br/> 
  📫 How to reach me: sandhyasharma0423@gmail.com <br/>
  
 
